@@ -1,3 +1,4 @@
+# path의 파일 확장자 일괄 변경
 import os
 
 path = './compact'
